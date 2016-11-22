@@ -15,3 +15,5 @@ more information can be found in: http://www.eddieoz.com/us/projects/twitter-sen
 
 2013-01-15
 Collecting a bunch of tweets, choosed by emotion.
+
+It uses liblinear-php for machine learning directly from php: https://github.com/eddieoz/liblinear-php
